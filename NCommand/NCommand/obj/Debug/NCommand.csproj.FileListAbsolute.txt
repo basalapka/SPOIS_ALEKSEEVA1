@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\bin\Debug\NCommand.exe.config
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\bin\Debug\NCommand.exe
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\bin\Debug\NCommand.pdb
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.lref
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand.g.resources
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand.Properties.Resources.resources
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand.exe
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\NCommand\NCommand\obj\Debug\NCommand.pdb

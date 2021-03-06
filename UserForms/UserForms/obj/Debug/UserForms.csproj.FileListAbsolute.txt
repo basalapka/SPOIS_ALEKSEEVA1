@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\bin\Debug\UserForms.exe.config
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\bin\Debug\UserForms.exe
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\bin\Debug\UserForms.pdb
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.g.resources
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.exe
+C:\Users\admin\Desktop\УЧЕБА\8 семестр\Осипов\UserForms\UserForms\obj\Debug\UserForms.pdb
